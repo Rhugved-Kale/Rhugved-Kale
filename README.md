@@ -1,11 +1,12 @@
-## Hi, I am Rhugved ^_^
+### Hi, I am Rhugved :)
+
 Software Engineer working across AI/ML and backend systems. Ex-Samsung Research America (Bixby Lab), 2 years in production engineering at Reliance Jio, MS in CS from USC.
 
 I like building things end to end, from the model or pipeline itself to the systems that actually run it in production. Comfortable moving between applied ML, backend engineering, and the infra that holds it all together.
 
 Open to full-time SWE / AI-ML engineering roles.
 
-Reach me: rhugvedr@usc.edu
+**Reach me:** rhugvedr@usc.edu
 <!--
 **Rhugved-Kale/Rhugved-Kale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
